@@ -1,4 +1,3 @@
-[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq&pid=Api&P=0&h=180)](https://tse2.mm.bing.net/th?id=OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm RISHI R</h1>
 <h3 align="center">AN UNDERGRAD CSE STUDENT INTERESTED IN MACHINE LEARNING</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
