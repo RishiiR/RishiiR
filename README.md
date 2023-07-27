@@ -1,4 +1,4 @@
-[![MasterHead](https://appkey.id/wp-content/uploads/2020/12/machine-learning.jpg)](https://appkey.id/wp-content/uploads/2020/12/machine-learning.jpg
+![MasterHead](https://appkey.id/wp-content/uploads/2020/12/machine-learning.jpg)](https://appkey.id/wp-content/uploads/2020/12/machine-learning.jpg)
 <h1 align="center">Hi 👋, I'm RISHI R</h1>
 <h3 align="center">AN UNDERGRAD CSE STUDENT INTERESTED IN MACHINE LEARNING</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
